@@ -1,0 +1,59 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:ru.lunar1a.chat.abstracts////PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.abstracts/index.html
+$dokka.location:ru.lunar1a.chat.abstracts/AbstractCommand///PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.abstracts/-abstract-command/index.html
+$dokka.location:ru.lunar1a.chat.abstracts/AbstractCommand/AbstractCommand/#kotlin.String/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.abstracts/-abstract-command/-abstract-command.html
+$dokka.location:ru.lunar1a.chat.abstracts/AbstractCommand/complete/#org.bukkit.command.CommandSender?#kotlin.Array[kotlin.String]?/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.abstracts/-abstract-command/complete.html
+$dokka.location:ru.lunar1a.chat.abstracts/AbstractCommand/execute/#org.bukkit.command.CommandSender?#org.bukkit.command.Command?#kotlin.String?#kotlin.Array[kotlin.String]?/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.abstracts/-abstract-command/execute.html
+$dokka.location:ru.lunar1a.chat.abstracts/AbstractCommand/onCommand/#org.bukkit.command.CommandSender#org.bukkit.command.Command#kotlin.String#kotlin.Array[kotlin.String]/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.abstracts/-abstract-command/on-command.html
+$dokka.location:ru.lunar1a.chat.abstracts/AbstractCommand/onTabComplete/#org.bukkit.command.CommandSender#org.bukkit.command.Command#kotlin.String#kotlin.Array[kotlin.String]/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.abstracts/-abstract-command/on-tab-complete.html
+$dokka.location:ru.lunar1a.chat.commands////PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.commands/index.html
+$dokka.location:ru.lunar1a.chat.commands/ChatCommand///PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.commands/-chat-command/index.html
+$dokka.location:ru.lunar1a.chat.commands/ChatCommand/ChatCommand/#/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.commands/-chat-command/-chat-command.html
+$dokka.location:ru.lunar1a.chat.commands/ChatCommand/complete/#org.bukkit.command.CommandSender?#kotlin.Array[kotlin.String]?/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.commands/-chat-command/complete.html
+$dokka.location:ru.lunar1a.chat.commands/ChatCommand/execute/#org.bukkit.command.CommandSender?#org.bukkit.command.Command?#kotlin.String?#kotlin.Array[kotlin.String]?/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.commands/-chat-command/execute.html
+$dokka.location:ru.lunar1a.chat.listeners////PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.listeners/index.html
+$dokka.location:ru.lunar1a.chat.listeners/PlayerChatListener///PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.listeners/-player-chat-listener/index.html
+$dokka.location:ru.lunar1a.chat.listeners/PlayerChatListener/PlayerChatListener/#/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.listeners/-player-chat-listener/-player-chat-listener.html
+$dokka.location:ru.lunar1a.chat.listeners/PlayerChatListener/onChat/#org.bukkit.event.player.AsyncPlayerChatEvent/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.listeners/-player-chat-listener/on-chat.html
+$dokka.location:ru.lunar1a.chat.listeners/PlayerChatListener/sendChatMessage/#org.bukkit.event.player.AsyncPlayerChatEvent#kotlin.String/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.listeners/-player-chat-listener/send-chat-message.html
+$dokka.location:ru.lunar1a.chat.listeners/PlayerJoinListener///PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.listeners/-player-join-listener/index.html
+$dokka.location:ru.lunar1a.chat.listeners/PlayerJoinListener/PlayerJoinListener/#/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.listeners/-player-join-listener/-player-join-listener.html
+$dokka.location:ru.lunar1a.chat.listeners/PlayerJoinListener/onJoin/#org.bukkit.event.player.PlayerJoinEvent/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.listeners/-player-join-listener/on-join.html
+$dokka.location:ru.lunar1a.chat.listeners/PlayerQuitListener///PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.listeners/-player-quit-listener/index.html
+$dokka.location:ru.lunar1a.chat.listeners/PlayerQuitListener/PlayerQuitListener/#/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.listeners/-player-quit-listener/-player-quit-listener.html
+$dokka.location:ru.lunar1a.chat.listeners/PlayerQuitListener/onQuit/#org.bukkit.event.player.PlayerQuitEvent/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.listeners/-player-quit-listener/on-quit.html
+$dokka.location:ru.lunar1a.chat.telegram.commands////PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.telegram.commands/index.html
+$dokka.location:ru.lunar1a.chat.telegram.commands//executeCommand/com.github.kotlintelegrambot.dispatcher.Dispatcher#/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.telegram.commands/execute-command.html
+$dokka.location:ru.lunar1a.chat.telegram.commands//listCommand/com.github.kotlintelegrambot.dispatcher.Dispatcher#/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.telegram.commands/list-command.html
+$dokka.location:ru.lunar1a.chat.telegram////PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.telegram/index.html
+$dokka.location:ru.lunar1a.chat.telegram/Telegram///PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.telegram/-telegram/index.html
+$dokka.location:ru.lunar1a.chat.telegram/Telegram/Telegram/#/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.telegram/-telegram/-telegram.html
+$dokka.location:ru.lunar1a.chat.telegram/Telegram/createBot/#/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.telegram/-telegram/create-bot.html
+$dokka.location:ru.lunar1a.chat.utils////PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.utils/index.html
+$dokka.location:ru.lunar1a.chat.utils/Service///PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.utils/-service/index.html
+$dokka.location:ru.lunar1a.chat.utils/Service/Service/#/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.utils/-service/-service.html
+$dokka.location:ru.lunar1a.chat.utils/Service/getOnlinePlayers/#/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.utils/-service/get-online-players.html
+$dokka.location:ru.lunar1a.chat.utils/Storage///PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.utils/-storage/index.html
+$dokka.location:ru.lunar1a.chat.utils/Storage/Storage/#/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.utils/-storage/-storage.html
+$dokka.location:ru.lunar1a.chat.utils/Storage/getConfigBoolean/#kotlin.String/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.utils/-storage/get-config-boolean.html
+$dokka.location:ru.lunar1a.chat.utils/Storage/getConfigLong/#kotlin.String/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.utils/-storage/get-config-long.html
+$dokka.location:ru.lunar1a.chat.utils/Storage/getConfigString/#kotlin.String/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.utils/-storage/get-config-string.html
+$dokka.location:ru.lunar1a.chat.utils/Storage/getString/#kotlin.String/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat.utils/-storage/get-string.html
+$dokka.location:ru.lunar1a.chat////PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat/index.html
+$dokka.location:ru.lunar1a.chat/LunariaChat.Companion///PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat/-lunaria-chat/-companion/index.html
+$dokka.location:ru.lunar1a.chat/LunariaChat.Companion/instance/#/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat/-lunaria-chat/-companion/instance.html
+$dokka.location:ru.lunar1a.chat/LunariaChat.Companion/placeholderAPI/#/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat/-lunaria-chat/-companion/placeholder-a-p-i.html
+$dokka.location:ru.lunar1a.chat/LunariaChat.Companion/telegram/#/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat/-lunaria-chat/-companion/telegram.html
+$dokka.location:ru.lunar1a.chat/LunariaChat///PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat/-lunaria-chat/index.html
+$dokka.location:ru.lunar1a.chat/LunariaChat/LunariaChat/#/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat/-lunaria-chat/-lunaria-chat.html
+$dokka.location:ru.lunar1a.chat/LunariaChat/onDisable/#/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat/-lunaria-chat/on-disable.html
+$dokka.location:ru.lunar1a.chat/LunariaChat/onEnable/#/PointingToDeclaration/-lunaria-chat/ru.lunar1a.chat/-lunaria-chat/on-enable.html
+ru.lunar1a.chat
+ru.lunar1a.chat.abstracts
+ru.lunar1a.chat.commands
+ru.lunar1a.chat.listeners
+ru.lunar1a.chat.telegram
+ru.lunar1a.chat.telegram.commands
+ru.lunar1a.chat.utils
+
